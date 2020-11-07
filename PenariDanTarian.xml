@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PenariWithTarian>
+   <penjualTari>
+      <penari>
+      	 <penariId>1</penariId>
+      	 <username>bagusmerta</username>
+         <email>bagusmerta@gmail.com</email>
+         <fname>bagus</fname>
+         <lname>merta</lname>
+         <noHp>081245123890</noHp>
+         <password>60b7b3a90fd9098cada48f60a8f2f342</password>
+         <tempatTinggal>
+            <alamat>Jl Gunung Sang Hyang No 12</alamat>
+            <kabupaten>Badung</kabupaten>
+            <kodepos>80361</kodepos>
+         </tempatTinggal>
+      </penari>
+      <penari>
+      	 <penariId>2</penariId>
+      	 <username>fahmiahmad</username>
+         <email>fahmiahmd@gmail.com</email>
+         <fname>arum</fname>
+         <lname>fahmi</lname>
+         <noHp>087123345211</noHp>
+         <password>60b7b3a90fd9098cada48f60a8f2f342</password>
+         <tempatTinggal>
+            <alamat>Perumahan Dalung Permai No 18</alamat>
+            <kabupaten>Badung</kabupaten>
+            <kodepos>80361</kodepos>
+         </tempatTinggal>
+      </penari>
+   </penjualTari>
+
+   <allTarian>
+      <tarian>
+         <tarianId>1</tarianId>
+         <namaTarian>Tari Barong</namaTarian>
+         <deskripsi>Tari Barong adalah salah satu tarian tradisional yang menggunakan media topeng dan kostum sebagai perwujudan dari makhluk-makhluk yang dipercaya oleh masyarakat Bali. Menurut kepercayaan masyarakat Bali, Tari Barong ini dianggap kesenian yang sakral sehingga terdapat juga kesan mistis di dalamnya. Tari Barong ini merupakan tarian tradisional yang cukup terkenal di Bali. selain memiliki nilai seni, Tari Barong ini juga memiliki makna-makna spiritual di dalamnya.</deskripsi>
+         <tarif>120000</tarif>
+      </tarian>
+      <tarian>
+         <tarianId>2</tarianId>
+         <namaTarian>Tari Baris</namaTarian>
+         <tarianId>2</tarianId>
+         <deskripsi>Tari Baris adalah sebuah jenis tari-tarian perang tradisional dari Bali yang diiringi dengan gamelan. Tari ini menggambarkan perasaan seorang pahlawan muda sebelum ia pergi ke medan perang, mengelu-elukan kejantanan pahlawan Bali dan menunjukkan kemantapan kepemimpinannya.</deskripsi>
+         <tarif>100000</tarif>
+      </tarian>
+   </allTarian>
+
+</PenariWithTarian>
